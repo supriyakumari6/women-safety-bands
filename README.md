@@ -1,5 +1,6 @@
 # women-safety-bands
 (IoT, GPS, GSM, Embedded Systems)
+
 • Developed a smart women safety band capable of sending emergency alerts and real-time location to predefined
 contacts during distress situations.
 
